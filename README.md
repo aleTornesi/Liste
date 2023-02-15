@@ -1,0 +1,35 @@
+# Liste
+
+- [Instructions](#instructions)
+    <details>
+    <summary>- [R instructions](#r-instructions) </summary>
+
+        - [ADD]()
+        - [SUB]()
+        - [ADDU]()
+        - [SUBU]()
+        - [AND]()
+        - [OR]()
+        - [XOR]()
+        - [SLL]()
+        - [SLLV]()
+        - [NOR]()
+        - [MULT]()
+        - [MULTU]()
+        - [DIV]()
+        - [DIVU]()
+        - [SLT]()
+        - [SLTU]()
+        - [SRA]()
+        - [SRAV]()
+        - [SRL]()
+        - [SRLV]()
+        - [SYSCALL]()
+        - [BREAK]()
+        - [JALR]()
+        - [JR]()
+        - [MFHI]()
+        - [MFLO]()
+        - [MTHI]()
+        - [MTLO]()
+    </details>
